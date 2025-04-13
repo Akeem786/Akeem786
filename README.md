@@ -18,7 +18,7 @@
   <a href="https://www.instagram.com/http_4keem_" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/@akeemchoudhary" target="blank">
+  <a href="https://www.youtube.com/@Akeemchoudhary" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
 </p>
@@ -49,8 +49,12 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akeem0786&show_icons=true&locale=en&layout=compact" alt="akeem0786" /></p>
+<h3 align="left">📊 GitHub Stats:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akeem0786&show_icons=true&locale=en" alt="akeem0786" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akeem0786&" alt="akeem0786" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akeem786&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akeem786&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akeem786&theme=tokyonight" alt="GitHub Streak" />
+</p>
