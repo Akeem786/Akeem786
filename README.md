@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akeem Ali</h1>
-<h3 align="center">🚀 A passionate Frontend Developer & Aspiring Full-Stack Engineer from India</h3>
+<h3 align="center">🚀 A passionate Data Science Enthusiast & Aspiring Full-Stack Data Scientist from India</h3>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Frontend+Developer;Learning+Full-Stack+Development;Passionate+about+Tech+%26+Code;Always+building+something+cool!" alt="Typing SVG" />
