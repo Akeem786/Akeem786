@@ -12,11 +12,25 @@
 
 ### 🌱 About Me
 
-- 🎓 B.Tech CS&IT Student at **C.V. Raman Global University, Bhubaneswar**
-- 🌱 Currently learning: **Python, DSA, HTML, C++, Java**
-- 🔭 Working on: **Personal Projects** and preparing for **internships**
-- ⚡ Fun fact: **I make people laugh without trying 😄**
+🎓 B.Tech CS&IT student at C.V. Raman Global University, Bhubaneswar
 
+💻 Currently learning: Python, DSA, HTML, C++, Java
+
+🛠️ Additional Skills:
+
+JavaScript, SQL, OOP, Git & GitHub
+
+Machine Learning (Basics)
+
+Data Preprocessing & Visualization
+
+FastAPI, REST APIs
+
+Linux Basics, Problem-Solving
+
+🚀 Working on personal projects and preparing for internship opportunities
+
+⚡ Fun fact: I make people laugh without even trying 😄
 ---
 
 ### 📫 Connect With Me
