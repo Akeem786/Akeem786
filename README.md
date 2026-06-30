@@ -7,26 +7,29 @@
 
 <img align="right" alt="coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
----
+## 🌱 About Me
 
-### 🌱 About Me
+🎓 B.Tech in **Computer Science & Information Technology (CS&IT)** at **C.V. Raman Global University, Bhubaneswar**
 
-🎓 B.Tech CS&IT student at **C.V. Raman Global University, Bhubaneswar**  
-💻 Currently learning: **Python, DSA, HTML, C++, Java**  
+💻 Passionate about **Software Development, Data Science, Machine Learning, and Backend Development**. I enjoy building practical projects, solving coding challenges, and continuously learning new technologies.
 
-🛠️ **Additional Skills:**
-- **Programming:** Python, C, C++, Java, JavaScript  
-- **Data Science:** Machine Learning, Data Preprocessing, EDA, Feature Engineering  
-- **ML Tools:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn  
-- **Backend:** FastAPI, REST APIs, JWT Authentication  
-- **Databases:** SQL (MySQL), SQLite  
-- **Tools & Platforms:** Git, GitHub, Linux, VS Code, Jupyter Notebook, Google Colab  
-- **Other:** Problem-Solving, OOP, API Development  
+### 🛠️ Technical Skills
 
-🚀 Currently working on **ML Projects**, **REST API Projects**, and preparing for **Internships**  
-⚡ Fun fact: *I make people laugh without even trying 😄*
+* **Programming Languages:** Python, C, C++, Java, JavaScript
+* **Core CS:** Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP)
+* **Data Science & Machine Learning:** Machine Learning, Data Preprocessing, Exploratory Data Analysis (EDA), Feature Engineering
+* **ML Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn
+* **Backend Development:** FastAPI, REST APIs, JWT Authentication
+* **Databases:** MySQL, SQLite
+* **Tools & Platforms:** Git, GitHub, Linux, VS Code, Jupyter Notebook, Google Colab
+* **Web Technologies:** HTML, CSS, JavaScript
 
----
+🚀 Currently working on **Machine Learning projects**, **REST API development**, **DSA**, and preparing for **Software Development & Data Science internships**.
+
+🌟 Always eager to learn, collaborate, and build impactful solutions through technology.
+
+⚡ **Fun Fact:** *I make people laugh without even trying. 😄*
+
 
 ### 📫 Connect With Me
 
