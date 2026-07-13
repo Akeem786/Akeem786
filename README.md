@@ -1,39 +1,119 @@
-<h1 align="center">Hi 👋, I'm Akeem Ali</h1>
-<h3 align="center">🚀 A passionate Data Science Enthusiast & Aspiring Full-Stack Data Scientist from India</h3>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0e75b6&height=220&section=header&text=Akeem%20Ali&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Science%20Enthusiast%20%7C%20Aspiring%20Full-Stack%20Data%20Scientist&descAlignY=55&descSize=18" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Machine+Learning+Practitioner;Aspiring+Full-Stack+Data+Scientist;Backend+Developer+(FastAPI);Always+Learning+New+Tech!" alt="Typing SVG" />
+
+<img src="https://komarev.com/ghpvc/?username=Akeem786&label=Profile%20views&color=7dd3fc&style=flat" />
+<img src="https://img.shields.io/github/followers/Akeem786?label=Followers&style=flat&color=7dd3fc" />
+
+</div>
+
+---
+
+### 🌱 Who I Am
+
+```typescript
+const akeemAli = {
+  title: "Data Science Enthusiast & Aspiring Full-Stack Data Scientist",
+  education: "B.Tech in Computer Science & Information Technology, C.V. Raman Global University, Bhubaneswar",
+  stack: {
+    languages: ["Python", "C", "C++", "Java", "JavaScript"],
+    dataScience: ["Machine Learning", "Data Preprocessing", "EDA", "Feature Engineering"],
+    mlLibraries: ["NumPy", "Pandas", "Matplotlib", "Seaborn", "Scikit-Learn"],
+    backend: ["FastAPI", "REST APIs", "JWT Authentication"],
+    databases: ["MySQL", "SQLite"],
+    tools: ["Git", "GitHub", "Linux", "VS Code", "Jupyter Notebook", "Google Colab"]
+  },
+  launchedProjects: [
+    "File Integrity Monitoring System (Python)",
+    "REST API with JWT Authentication (FastAPI)"
+  ],
+  currentlyBuilding: "End-to-End Machine Learning Pipeline",
+  currentlyLearning: ["React.js", "Tailwind CSS"],
+  status: "Preparing for Software Development & Data Science internships",
+  funFact: "I make people laugh without even trying 😄"
+};
+```
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+<a href="https://github.com/Akeem786">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akeem786&repo=file-integrity-monitoring&theme=tokyonight" width="100%"/>
+</a>
+
+| Layer | Technology |
+|---|---|
+| Language | Python |
+| Purpose | Detects unauthorized file changes via hashing |
+
+</td>
+<td width="50%">
+
+<a href="https://github.com/Akeem786">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akeem786&repo=rest-api-jwt-auth&theme=tokyonight" width="100%"/>
+</a>
+
+| Layer | Technology |
+|---|---|
+| Framework | FastAPI |
+| Purpose | REST API with JWT-based authentication |
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+<p><img src="https://skillicons.dev/icons?i=python,c,cpp,java,js" /></p>
+
+**Frontend**
+<p><img src="https://skillicons.dev/icons?i=html,css,js" /></p>
+
+**Backend / Infra**
+<p><img src="https://skillicons.dev/icons?i=fastapi" /></p>
+
+**Databases**
+<p><img src="https://skillicons.dev/icons?i=mysql,sqlite" /></p>
+
+**Dev Tools**
+<p><img src="https://skillicons.dev/icons?i=git,github,linux,vscode" /></p>
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Machine+Learning+Practitioner;Aspiring+Full-Stack+Data+Scientist;Frontend+Developer;Always+Learning+New+Tech!" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akeem786&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c0caf5" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akeem786&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c0caf5" height="165"/>
 </p>
 
-<img align="right" alt="coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Akeem786&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" />
+</p>
 
-## 🌱 About Me
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Akeem786&theme=nord&no-frame=true&no-bg=true&row=1" />
+</p>
 
-🎓 B.Tech in **Computer Science & Information Technology (CS&IT)** at **C.V. Raman Global University, Bhubaneswar**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akeem786&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff" width="100%"/>
+</p>
 
-💻 Passionate about **Software Development, Data Science, Machine Learning, and Backend Development**. I enjoy building practical projects, solving coding challenges, and continuously learning new technologies.
-
-### 🛠️ Technical Skills
-
-* **Programming Languages:** Python, C, C++, Java, JavaScript
-* **Core CS:** Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP)
-* **Data Science & Machine Learning:** Machine Learning, Data Preprocessing, Exploratory Data Analysis (EDA), Feature Engineering
-* **ML Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn
-* **Backend Development:** FastAPI, REST APIs, JWT Authentication
-* **Databases:** MySQL, SQLite
-* **Tools & Platforms:** Git, GitHub, Linux, VS Code, Jupyter Notebook, Google Colab
-* **Web Technologies:** HTML, CSS, JavaScript
-
-🚀 Currently working on **Machine Learning projects**, **REST API development**, **DSA**, and preparing for **Software Development & Data Science internships**.
-
-🌟 Always eager to learn, collaborate, and build impactful solutions through technology.
-
-⚡ **Fun Fact:** *I make people laugh without even trying. 😄*
-
+---
 
 ### 📫 Connect With Me
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/akeem-ali-ba8178323" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -50,51 +130,10 @@
 
 ---
 
-### 🛠️ Languages and Tools
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-</p>
+> *"Code like a poet. Build like an engineer. Dream like a creator." — Akeem Ali*
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7dd3fc&height=120&section=footer" width="100%"/>
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akeem786&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Akeem786&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akeem786&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 📌 Projects & Goals
-
-- ✅ Build **File Integrity Monitoring** project (Python)  
-- ✅ Create **REST API with JWT Authentication** using FastAPI  
-- 🔄 Building **End-to-End Machine Learning Pipeline Project**  
-- 🧠 Learning **React.js + Tailwind CSS**  
-- 🌐 Next Goal: **Portfolio Website**
-
----
-
-### ✨ Quote
-
-> *"Code like a poet. Build like an engineer. Dream like a creator." – Akeem Ali*
-
----
-
-### 📍 Visitor Count
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Akeem786&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+</div>
